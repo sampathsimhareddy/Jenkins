@@ -1,5 +1,5 @@
-publib class Hello{
-  public class void main(string args[]){
+public class Hello{
+  public class void main(String args[]){
   system.outprintln(Hello World)
 }
 }
